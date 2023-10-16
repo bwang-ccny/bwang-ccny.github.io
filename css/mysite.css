@@ -1,0 +1,5 @@
+/* Extra css file for personal jemdoc customizations. */
+/* Copyright (C) Bo Wang 2023. */
+
+#logo {width: 80%; border:2px solid white;}
+#logo td{border: white; width: 25%}
